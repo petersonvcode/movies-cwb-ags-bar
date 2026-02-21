@@ -1,0 +1,26 @@
+{
+  "name": "movies-waybar",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/petersonvcode/movies-waybar#readme",
+  "bugs": {
+    "url": "https://github.com/petersonvcode/movies-waybar/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petersonvcode/movies-waybar.git"
+  },
+  "license": "ISC",
+  "author": "Peterson V Gama",
+  "type": "module",
+  "scripts": {
+    "build": "tsc --project tsconfig.json"
+  },
+  "dependencies": {
+    "playwright": "^1.58.2"
+  },
+  "devDependencies": {
+    "@types/node": "^25.3.0",
+    "typescript": "^5.9.3"
+  }
+}

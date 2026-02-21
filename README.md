@@ -1,1 +1,1 @@
-# movies-waybar
+# Movies list
