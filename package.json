@@ -26,12 +26,12 @@
     "targets": ["node24-linux-x64"]
   },
   "dependencies": {
-    "@yao-pkg/pkg": "^6.14.1",
     "better-sqlite3": "12.6.2",
     "openai": "6.22.0",
     "playwright": "1.58.2"
   },
   "devDependencies": {
+    "@yao-pkg/pkg": "^6.14.1",
     "@types/better-sqlite3": "7.6.13",
     "@types/node": "25.3.0",
     "typescript": "5.9.3"
